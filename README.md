@@ -11,9 +11,9 @@ pago = calcular_pago_horas_extra(valor_hora=5000, horas_extra=3)
 print(pago)  # 22500.0
 ```
 
-## Instalacion
+## Instalación
 
-No se necesitan depedencias externas, solo Python 3.
+No se necesitan dependencias externas, solo Python 3.
 
 ## Tests
 
